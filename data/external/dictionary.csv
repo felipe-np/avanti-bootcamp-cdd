@@ -1,5 +1,5 @@
 variavel,descricao,tipo,subtipo
-subject,Tipo de assunto,qualitativa,nominal
+subject,Pessoa realizadora do teste,qualitativa,nominal
 attention,Tipo de atencao utilizada,qualitativa,nominal
 solutions,Quantidade de solucoes realizadas,quantitativa,discreta
 score,Nota referente de eficiencia do teste,quantitativa,discreta
