@@ -1,17 +1,19 @@
-# <Título do projeto>
+# <Exploração de Dados - Dataset: Attention>
 
-Insira aqui um resumo do projeto que será construído. Tente apresentar uma justificativa para o projeto. É desejável que também se insira um [graphical abstract](https://www.elsevier.com/authors/tools-and-resources/visual-abstract).
+O projeto realizou uma análise exploratória dos dados do dataset "Attention", que inclui testes de pessoas avaliadas com atenção "dividida" ou "focada". A análise revelou que:
 
-## Desenvolvedores
- - [Nome do desenvolvedor #1](url-do-github-do-desenvolvedor-#1)
- - [Nome do desenvolvedor #2](url-do-github-do-desenvolvedor-#2)
- - [Nome do desenvolvedor #3](url-do-github-do-desenvolvedor-#3)
- - [Nome do desenvolvedor #4](url-do-github-do-desenvolvedor-#4)
- - ...
+1. **Distribuição de Atenção**: Há um equilíbrio perfeito entre os testes com atenção dividida e focada, cada um representando 50% dos casos.
+2. **Pontuações**: A maioria das pontuações está concentrada entre 5 e 7, indicando uma tendência centralizada.
+3. **Distribuição Bimodal**: Há duas modas nas pontuações, centradas em 5 e 6.
+4. **Desempenho**: A atenção focada leva a melhores resultados, independentemente do número de soluções propostas.
+5. **Correlação**: Existe uma correlação positiva entre o número de soluções propostas e as notas obtidas.
+6. **Consistência**: O tipo de atenção aplicada não influencia a quantidade de soluções propostas.
+7. **Notas Extremas**: A menor nota foi obtida com uma única solução e atenção dividida, enquanto a maior nota foi alcançada com três soluções e atenção focada.
+
+Em resumo, o projeto concluiu que mais soluções propostas e uma atenção focada aumentam a probabilidade de obter melhores notas.
+
 
 ---
-
-> **Nota**: todo o texto abaixo é somente para entendimento do usuário do template. Por favor remova-o quando for atualizar este `README.md`.
 
 ## Funcionalidades
 
