@@ -12,6 +12,7 @@ O projeto realizou uma análise exploratória dos dados do dataset "Attention", 
 
 Em resumo, o projeto concluiu que mais soluções propostas e uma atenção focada aumentam a probabilidade de obter melhores notas.
 
+A análise detalhada encontra-se em: notebooks/01-exploratory_data_analysis.ipynb
 
 ---
 
